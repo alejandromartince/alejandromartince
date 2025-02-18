@@ -1,7 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/alejandromartince/alejandromartince/main/assets/banner_alejandromr.png" alt="Alejandro Martín Banner" width="100%" />
   <h1 align="center">Hi 👋, I'm Alejandro Martín</h1>
   <h3 align="center">Passionate Frontend Developer from Spain</h3>
-  <img src="https://raw.githubusercontent.com/alejandromartince/alejandromartince/main/assets/banner_alejandromr.png" alt="Alejandro Martín Banner" width="100%" />
 </p>
 
 
