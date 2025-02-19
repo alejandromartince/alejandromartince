@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React, JavaScript, and Node.js**  
+- 📖 I’m currently learning **React, JavaScript, and Node.js**  
 - 👨‍💻 Check out my projects: [alejandromartince.com](https://www.alejandromartince.com)  
 - 💬 Ask me about **React, JavaScript, HTML, CSS, and Three.js**  
 - 📫 Reach me at **alejandromartin@alejandromartince.com** or **alejandromartin.ro.ce@gmail.com**  
