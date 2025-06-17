@@ -43,7 +43,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 <span>
 
-<br><br>
+<br>
 
 <!------------------------------------------------------------------- FRONT END ------------------------------------------------------------------->
 <h4> Front End </h4>
@@ -65,7 +65,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <!------------------------------------------------------------------- BACK END ------------------------------------------------------------------->
 <h4> Backend </h4>
@@ -73,19 +73,28 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+
 </span>
+
+<br><br>
 
 <div align="center">
  
 [![](https://mermaid.ink/img/pako:eNqNUk1PwkAQ_SubSUg1QcKHtLQHEwQTNaIoxoMth6EdYYVum-mCYNP_7tKCHvTgJpuZN_vem83O5hAmEYEHtVouldSeyC29oJhekCXOVpRZpiSsGYbLOSdrFRlsaUaVpciktCWKoqjVAvW2Sj7CBbIWz8NACbMujYZUNCHeEPsHJCo4FWdnF-IWNzgJWaa6Uvzg8vjeXO128l-z8fW4olaysna1TZmyzD_Exns2rTiGfBSNdv0oluq7fsD-T1r5j3aTxzv_pAxiiBpnmNHp9I-emljhqj--8c0WT5Tp36wBhgvyTx5SLRNDrvDeDeowZxmBp3lNdYiJY9xDyPceAZTTCcAzaYS8DCBQhdGkqF6TJD7KzKjmiyNYpxFqGkqcMxrGG66yPcU8IPHAzFSD1-44bmkCXg5b8Oxmo-vabdvtum7bsTvmcAdex250nHPXbbUct9drte2iDp9l12aj53TrQJHUCY-qL1X-rOILsAfBqQ?type=png)](https://mermaid.live/edit#pako:eNqNUk1PwkAQ_SubSUg1QcKHtLQHEwQTNaIoxoMth6EdYYVum-mCYNP_7tKCHvTgJpuZN_vem83O5hAmEYEHtVouldSeyC29oJhekCXOVpRZpiSsGYbLOSdrFRlsaUaVpciktCWKoqjVAvW2Sj7CBbIWz8NACbMujYZUNCHeEPsHJCo4FWdnF-IWNzgJWaa6Uvzg8vjeXO128l-z8fW4olaysna1TZmyzD_Exns2rTiGfBSNdv0oluq7fsD-T1r5j3aTxzv_pAxiiBpnmNHp9I-emljhqj--8c0WT5Tp36wBhgvyTx5SLRNDrvDeDeowZxmBp3lNdYiJY9xDyPceAZTTCcAzaYS8DCBQhdGkqF6TJD7KzKjmiyNYpxFqGkqcMxrGG66yPcU8IPHAzFSD1-44bmkCXg5b8Oxmo-vabdvtum7bsTvmcAdex250nHPXbbUct9drte2iDp9l12aj53TrQJHUCY-qL1X-rOILsAfBqQ)
 </div>
 
+
+<!------------------------------------------------------------------- OTRAS TECNOLOGIAS ------------------------------------------------------------------->
+
+<br>
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
 </span>
+
 
 <!------------------------------------------------------------------- CONECTA CONMIGO ------------------------------------------------------------------->
 <br><br>
