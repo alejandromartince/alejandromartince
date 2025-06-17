@@ -10,10 +10,7 @@
 
 
 <!------------------------------------------------------------------- PEQUEÑA DESCRIPCION ------------------------------------------------------------------->
- <!-- Profile Picture -->
-<img align="left" height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
-  <!-- Description -->
 ```diff
 🛠️ +5 years of professional experience.
 ✔️ Responsible worker.
@@ -25,8 +22,8 @@
 📫 Reach me at **alejandromartin@alejandromartince.com** or **alejandromartin.ro.ce@gmail.com**  
 
 ```
-<br>
 
+<br>
 <!------------------------------------------------------------------- IMAGEN ESTADISTICA ------------------------------------------------------------------->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
@@ -34,18 +31,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
-<h3 align="left">🌍 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alejandromartinro" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://www.alejandromartince.com" target="_blank">
-    <img align="center" src="https://github.com/alejandromartince/alejandromartince/blob/main/assets/pagina.png" alt="Website" height="30" width="30"/>
-  </a>
-</p>
 
 
----
+<!------------------------------------------------------------------- SKILLS ------------------------------------------------------------------->
 ## My Skills Include
 
 <h4> IDE </h4>
@@ -93,6 +81,17 @@
 <a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
+</p>
+
+<!------------------------------------------------------------------- CONECTA CONMIGO ------------------------------------------------------------------->
+<h3 align="left">🌍 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/alejandromartinro" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.alejandromartince.com" target="_blank">
+    <img align="center" src="https://github.com/alejandromartince/alejandromartince/blob/main/assets/pagina.png" alt="Website" height="30" width="30"/>
+  </a>
 </p>
 <!------------------------------------------------------------------- MAPA ------------------------------------------------------------------->
 ### 🌍 Ver Torremolinos en el mapa
