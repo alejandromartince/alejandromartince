@@ -1,13 +1,11 @@
 <!------------------------------------------------------------------- IMAGEN CABECERA ------------------------------------------------------------------->
  <img src="https://raw.githubusercontent.com/alejandromartince/alejandromartince/main/assets/banner_alejandromr.png" alt="Alejandro Martín Banner" width="100%" />
+ <br><br>
 
 <!------------------------------------------------------------------- TITULO ------------------------------------------------------------------->
-<h1 align="center">Hi👋, I'm Alejandro Martín</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&letterSpacing=0rem&pause=1000&width=435&lines=Passionate+Frontend+Developer+from+Spain" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=30&pause=1000&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Alejandro+Martin" alt="Typing SVG" /></a>
 </p>
-<br><br>
-
 <!------------------------------------------------------------------- PEQUEÑA DESCRIPCION ------------------------------------------------------------------->
 
 ```diff
@@ -29,6 +27,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandromartince&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alejandromartince&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -36,11 +35,18 @@
 ## My Skills Include
 
 <h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
 
-<h4> Languages </h4>
+<span>
+ 
+![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+<span>
+
+<br><br>
+
+<!------------------------------------------------------------------- FRONT END ------------------------------------------------------------------->
+<h4> Front End </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -48,28 +54,26 @@
   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
 </span>
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
+<br><br>
 
-<h4> Databases </h4>
+<div align="center">
+
+[![](https://mermaid.ink/img/pako:eNp9Us1ugkAQfpXNJIQLGgVBlkMv2qYxtYdq2qSlh5FdYSMsZF1bW8K7u4C2l9Y9zfc3k8xODUnJOERgWbWQQkektnXGC_6MSuAm53vbUMTeYLJLVXmQzGBbK5T7ChWX2iZN01hWLLd5-ZlkqDRZz2NJzLtTpdS3kr11BTHVOxkMbsj9evngX7fMVivvumOBH7hKlKh072sTnbBGkb8IyQzRK7_OTn_kR734W3rimPxoZ9D3zBTn_4TOGjiQKsEg0urAHSi4KrCFULepGLqlxhCZkqHaxRDLxmQqlK9lWVxiZsNpdgGHiqHmc4GpQuPYYr5vLVwyrmbmKzREnku9rglENRwhGrvu0KeB51M_cKfBKAgd-DI0HXrTCaVeOKYTn4Z-0Djw3c0dDcOp7wBnQpdq2d9CdxLNCaWMp9E?type=png)](https://mermaid.live/edit#pako:eNp9Us1ugkAQfpXNJIQLGgVBlkMv2qYxtYdq2qSlh5FdYSMsZF1bW8K7u4C2l9Y9zfc3k8xODUnJOERgWbWQQkektnXGC_6MSuAm53vbUMTeYLJLVXmQzGBbK5T7ChWX2iZN01hWLLd5-ZlkqDRZz2NJzLtTpdS3kr11BTHVOxkMbsj9evngX7fMVivvumOBH7hKlKh072sTnbBGkb8IyQzRK7_OTn_kR734W3rimPxoZ9D3zBTn_4TOGjiQKsEg0urAHSi4KrCFULepGLqlxhCZkqHaxRDLxmQqlK9lWVxiZsNpdgGHiqHmc4GpQuPYYr5vLVwyrmbmKzREnku9rglENRwhGrvu0KeB51M_cKfBKAgd-DI0HXrTCaVeOKYTn4Z-0Djw3c0dDcOp7wBnQpdq2d9CdxLNCaWMp9E)
+
+</div>
+
+<br><br>
+
+<!------------------------------------------------------------------- BACK END ------------------------------------------------------------------->
+<h4> Backend </h4>
 <span>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> Backend / Runtime </h4>
-<span>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</span>
-
-
-<!------------------------------------------------------------------- DIAGRAMA BACKEND ------------------------------------------------------------------->
-
 <div align="center">
  
-[![](https://mermaid.ink/img/pako:eNqNkU1vgkAQhv_KZhKCTZAooiiHJlabtE0_bG16KHgYYUSqLGRZWy3hv3cBbQ_toZtsZt7Z551JdgoI0pDABU0rYh5LlxW6XFNCLyhiXG4p11WJ6UsMNpFIdzxUWpcCeZ6hIC51Vpalpvl8tU0_gjUKyZ6nPmfqXCgP8XBO4p2Ed1SskQvWbp-zezX7Zv5fenY1a9DGVtcu95mgPPeO0XzLFw2j4JPp7jAOk5h_14_a-0mb_neH-eOt16oDm6LEJeZ0tvhjpiTBcTueXXvqsifK5W9qgsGavNZDJuNUwY2uuoEBkYhDcKXYkQEJiQQrCUXVw4f6-31wVRqi2Pjg81J5MuSvaZqcbGoX0fokdlmIkqYxRgIVscJtXiHqA0lM1NIkuF171KubgFvAHly7b_ZHA8tyhj3bUm8DAw7gDi2z59ijoW11R86g03VKAz7rqR1z6PTLL9-DsOw?type=png)](https://mermaid.live/edit#pako:eNqNkU1vgkAQhv_KZhKCTZAooiiHJlabtE0_bG16KHgYYUSqLGRZWy3hv3cBbQ_toZtsZt7Z551JdgoI0pDABU0rYh5LlxW6XFNCLyhiXG4p11WJ6UsMNpFIdzxUWpcCeZ6hIC51Vpalpvl8tU0_gjUKyZ6nPmfqXCgP8XBO4p2Ed1SskQvWbp-zezX7Zv5fenY1a9DGVtcu95mgPPeO0XzLFw2j4JPp7jAOk5h_14_a-0mb_neH-eOt16oDm6LEJeZ0tvhjpiTBcTueXXvqsifK5W9qgsGavNZDJuNUwY2uuoEBkYhDcKXYkQEJiQQrCUXVw4f6-31wVRqi2Pjg81J5MuSvaZqcbGoX0fokdlmIkqYxRgIVscJtXiHqA0lM1NIkuF171KubgFvAHly7b_ZHA8tyhj3bUm8DAw7gDi2z59ijoW11R86g03VKAz7rqR1z6PTLL9-DsOw)
-
+[![](https://mermaid.ink/img/pako:eNqNUk1PwkAQ_SubSUg1QcKHtLQHEwQTNaIoxoMth6EdYYVum-mCYNP_7tKCHvTgJpuZN_vem83O5hAmEYEHtVouldSeyC29oJhekCXOVpRZpiSsGYbLOSdrFRlsaUaVpciktCWKoqjVAvW2Sj7CBbIWz8NACbMujYZUNCHeEPsHJCo4FWdnF-IWNzgJWaa6Uvzg8vjeXO128l-z8fW4olaysna1TZmyzD_Exns2rTiGfBSNdv0oluq7fsD-T1r5j3aTxzv_pAxiiBpnmNHp9I-emljhqj--8c0WT5Tp36wBhgvyTx5SLRNDrvDeDeowZxmBp3lNdYiJY9xDyPceAZTTCcAzaYS8DCBQhdGkqF6TJD7KzKjmiyNYpxFqGkqcMxrGG66yPcU8IPHAzFSD1-44bmkCXg5b8Oxmo-vabdvtum7bsTvmcAdex250nHPXbbUct9drte2iDp9l12aj53TrQJHUCY-qL1X-rOILsAfBqQ?type=png)](https://mermaid.live/edit#pako:eNqNUk1PwkAQ_SubSUg1QcKHtLQHEwQTNaIoxoMth6EdYYVum-mCYNP_7tKCHvTgJpuZN_vem83O5hAmEYEHtVouldSeyC29oJhekCXOVpRZpiSsGYbLOSdrFRlsaUaVpciktCWKoqjVAvW2Sj7CBbIWz8NACbMujYZUNCHeEPsHJCo4FWdnF-IWNzgJWaa6Uvzg8vjeXO128l-z8fW4olaysna1TZmyzD_Exns2rTiGfBSNdv0oluq7fsD-T1r5j3aTxzv_pAxiiBpnmNHp9I-emljhqj--8c0WT5Tp36wBhgvyTx5SLRNDrvDeDeowZxmBp3lNdYiJY9xDyPceAZTTCcAzaYS8DCBQhdGkqF6TJD7KzKjmiyNYpxFqGkqcMxrGG66yPcU8IPHAzFSD1-44bmkCXg5b8Oxmo-vabdvtum7bsTvmcAdex250nHPXbbUct9drte2iDp9l12aj53TrQJHUCY-qL1X-rOILsAfBqQ)
 </div>
 
 <h4> Other Tools and Technologies </h4>
