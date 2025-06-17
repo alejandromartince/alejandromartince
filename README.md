@@ -11,7 +11,6 @@
 <!------------------------------------------------------------------- PEQUEÑA DESCRIPCION ------------------------------------------------------------------->
 
 ```diff
-🛠️ +5 years of professional experience.
 ✔️ Responsible worker.
 👨‍💻 Information Technology Engineer (ITI).
 ✔️ Check out my projects: [alejandromartince.com](https://www.alejandromartince.com) 
