@@ -11,10 +11,10 @@
 ```diff
 ✔️ Responsible worker.
 👨‍💻 Information Technology Engineer (ITI).
-✔️ Check out my projects: [alejandromartince.com](https://www.alejandromartince.com) 
+✔️ Check out my projects: https://www.alejandromartince.com
 📖 I’m currently learning **React, NextJS, Node.js, Node Express and API Rest** 
 🚀 Optimizing web pages.
-💻Solving problems from a self-built computer.@@
+💻Solving problems from a self-built computer.
 📫 Reach me at **alejandromartin@alejandromartince.com** or **alejandromartin.ro.ce@gmail.com**  
 
 ```
