@@ -65,7 +65,13 @@
 </span>
 
 
+<!------------------------------------------------------------------- DIAGRAMA BACKEND ------------------------------------------------------------------->
 
+<div align="center">
+ 
+[![](https://mermaid.ink/img/pako:eNqNkU1vgkAQhv_KZhKCTZAooiiHJlabtE0_bG16KHgYYUSqLGRZWy3hv3cBbQ_toZtsZt7Z551JdgoI0pDABU0rYh5LlxW6XFNCLyhiXG4p11WJ6UsMNpFIdzxUWpcCeZ6hIC51Vpalpvl8tU0_gjUKyZ6nPmfqXCgP8XBO4p2Ed1SskQvWbp-zezX7Zv5fenY1a9DGVtcu95mgPPeO0XzLFw2j4JPp7jAOk5h_14_a-0mb_neH-eOt16oDm6LEJeZ0tvhjpiTBcTueXXvqsifK5W9qgsGavNZDJuNUwY2uuoEBkYhDcKXYkQEJiQQrCUXVw4f6-31wVRqi2Pjg81J5MuSvaZqcbGoX0fokdlmIkqYxRgIVscJtXiHqA0lM1NIkuF171KubgFvAHly7b_ZHA8tyhj3bUm8DAw7gDi2z59ijoW11R86g03VKAz7rqR1z6PTLL9-DsOw?type=png)](https://mermaid.live/edit#pako:eNqNkU1vgkAQhv_KZhKCTZAooiiHJlabtE0_bG16KHgYYUSqLGRZWy3hv3cBbQ_toZtsZt7Z551JdgoI0pDABU0rYh5LlxW6XFNCLyhiXG4p11WJ6UsMNpFIdzxUWpcCeZ6hIC51Vpalpvl8tU0_gjUKyZ6nPmfqXCgP8XBO4p2Ed1SskQvWbp-zezX7Zv5fenY1a9DGVtcu95mgPPeO0XzLFw2j4JPp7jAOk5h_14_a-0mb_neH-eOt16oDm6LEJeZ0tvhjpiTBcTueXXvqsifK5W9qgsGavNZDJuNUwY2uuoEBkYhDcKXYkQEJiQQrCUXVw4f6-31wVRqi2Pjg81J5MuSvaZqcbGoX0fokdlmIkqYxRgIVscJtXiHqA0lM1NIkuF171KubgFvAHly7b_ZHA8tyhj3bUm8DAw7gDi2z59ijoW11R86g03VKAz7rqR1z6PTLL9-DsOw)
+
+</div>
 
 <h4> Other Tools and Technologies </h4>
 <span>
@@ -74,28 +80,31 @@
 
 </span>
 
-
-<hr>
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
-</p>
-
 <!------------------------------------------------------------------- CONECTA CONMIGO ------------------------------------------------------------------->
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/alejandromartinro" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://www.alejandromartince.com" target="_blank">
-    <img align="center" src="https://github.com/alejandromartince/alejandromartince/blob/main/assets/pagina.png" alt="Website" height="30" width="30"/>
-  </a>
+<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:alejandromartince@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/AleMR_10"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
 </p>
-<!------------------------------------------------------------------- MAPA ------------------------------------------------------------------->
-### 🌍 Ver Torremolinos en el mapa
+</p>
 
-[🗺️ Ver mapa interactivo de Torremolinos](https://geojson.io/#data=data:application/json,%7B%22type%22%3A%22FeatureCollection%22%2C%22features%22%3A%5B%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22name%22%3A%22Torremolinos%22%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-4.4998%2C36.6256%5D%7D%7D%5D%7D)
-
+ ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -4.518187000000182,
+          36.61580205767578
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
 
